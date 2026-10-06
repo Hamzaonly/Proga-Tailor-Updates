@@ -1,5 +1,7 @@
 # Proga Tailor Updates
 
-Private Windows installers and release notes for Proga Tailor.
+Official Windows installers and release notes. Current baseline: 1.0.0 with all latest app changes.
 
-Install version 1.0.0 manually. In-app downloads from this private repository require a separate authenticated update service.
+Download the latest installer from Releases. Install the rebuilt baseline 1.0.0 manually once. Future releases will use increasing versions (1.0.1, 1.0.2, ...) and appear under Settings > Check for Updates.
+
+This repository contains installer releases, not shop data or source code.
